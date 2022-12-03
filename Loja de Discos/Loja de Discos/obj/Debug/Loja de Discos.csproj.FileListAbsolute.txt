@@ -1,0 +1,45 @@
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\bin\Debug\Loja de Discos.exe.config
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\bin\Debug\Loja de Discos.exe
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\bin\Debug\Loja de Discos.pdb
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.csproj.AssemblyReference.cache
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\obj\Debug\Loja_de_Discos.Form1.resources
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\obj\Debug\Loja_de_Discos.Properties.Resources.resources
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.csproj.GenerateResource.cache
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.exe
+C:\Users\Aluno\source\repos\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.pdb
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\Loja de Discos.exe.config
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\Loja de Discos.exe
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\Loja de Discos.pdb
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.csprojAssemblyReference.cache
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\obj\Debug\Loja_de_Discos.Form1.resources
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\obj\Debug\Loja_de_Discos.Properties.Resources.resources
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.csproj.GenerateResource.cache
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.exe
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.pdb
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\BouncyCastle.Crypto.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\Google.Protobuf.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\K4os.Compression.LZ4.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\K4os.Compression.LZ4.Streams.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\K4os.Hash.xxHash.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\MySql.Data.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\System.Buffers.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\System.Memory.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\System.Numerics.Vectors.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\ZstdNet.dll
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\BouncyCastle.Crypto.xml
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\Google.Protobuf.pdb
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\Google.Protobuf.xml
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\K4os.Compression.LZ4.xml
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\K4os.Compression.LZ4.Streams.xml
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\K4os.Hash.xxHash.xml
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\MySql.Data.xml
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\System.Buffers.xml
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\System.Memory.xml
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\System.Numerics.Vectors.xml
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\obj\Debug\Loja de Discos.csproj.CopyComplete
+C:\Users\Aluno\Desktop\Loja de Discos\Loja de Discos\obj\Debug\Loja_de_Discos.Form2.resources
